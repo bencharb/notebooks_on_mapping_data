@@ -1,0 +1,17 @@
+env
+*.pyc
+staticfiles
+.env
+.idea
+db.sqlite3
+.DS_store
+.dockerignore
+.ipynb_checkpoints/
+.vagrant/
+node_modules/
+/staticfiles
+/media
+/logs
+/venv/**/*
+
+.vscode/settings.json
